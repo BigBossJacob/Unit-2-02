@@ -4,10 +4,4 @@
 --
 -----------------------------------------------------------------------------------------
 
--- This is how to add a background
--- 
------------------------------------------------------------------------------------------
-
--- Set default screen background color to blue
-display.setDefault( "background", 240, 157, 171 )
-
+-- Your code here
